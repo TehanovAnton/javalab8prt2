@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="lp8prt2:ear">
+    <output-path>$PROJECT_DIR$/out/artifacts/lp8prt2_ear</output-path>
+    <root id="archive" name="lp8prt2_ear.ear">
+      <element id="artifact" artifact-name="lp8prt2:ear exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
